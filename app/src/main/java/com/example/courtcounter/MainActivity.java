@@ -36,8 +36,8 @@ int scoreTeamB = 0;
      * Adds 3 points for team A.
      */
     public void plusThree(View view){
-           scoreTeamA = scoreTeamA + 3;
-           displayscoreForTeamA(scoreTeamA);
+        scoreTeamA = scoreTeamA + 3;
+        displayscoreForTeamA(scoreTeamA);
 
     }
     /**
